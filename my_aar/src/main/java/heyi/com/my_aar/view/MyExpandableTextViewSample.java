@@ -1,7 +1,6 @@
-package heyi.com.picking.view;
+package heyi.com.my_aar.view;
 
 import android.content.Context;
-import android.graphics.Canvas;
 import android.util.AttributeSet;
 import android.util.Log;
 import android.view.View;
@@ -9,29 +8,29 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import heyi.com.picking.R;
-
 
 /**
  * Created by yanru.zhang on 16/7/26.
  * Email:yanru.zhang@renren-inc.com
  */
-public class MyTextView extends LinearLayout {
+public class MyExpandableTextViewSample extends LinearLayout {
+    //http://m.blog.csdn.net/u010335298/article/details/52074116
+
     private TextView mTextView;
     private ImageView mOpenBtn;
     private boolean isOpen = false;
     private int foldLines = 3; //大于3行的时候折叠
     private int lineCounts;
 
-    public MyTextView(Context context) {
+    public MyExpandableTextViewSample(Context context) {
         this(context, null);
     }
 
-    public MyTextView(Context context, AttributeSet attrs) {
+    public MyExpandableTextViewSample(Context context, AttributeSet attrs) {
         this(context, attrs, 0);
     }
 
-    public MyTextView(Context context, AttributeSet attrs, int defStyleAttr) {
+    public MyExpandableTextViewSample(Context context, AttributeSet attrs, int defStyleAttr) {
         super(context, attrs, defStyleAttr);
 
     }

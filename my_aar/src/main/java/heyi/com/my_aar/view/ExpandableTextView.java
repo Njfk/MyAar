@@ -71,7 +71,6 @@ public class ExpandableTextView extends LinearLayout {
             @Override
             public void onClick(View v) {
                 ExpandCollapseAnimation animation;
-
                 isCollapsed=!isCollapsed;
                 if (isCollapsed) {
                     id_expand_textview.setText("展开");
