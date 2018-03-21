@@ -1,3 +1,6 @@
 
 //各种开源控件地址
 https://github.com/Trinea/android-open-project
+
+//er wei ma  二维码扫描
+https://github.com/bertsir/zBarLibary
