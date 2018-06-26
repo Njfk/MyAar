@@ -7,3 +7,7 @@ https://github.com/bertsir/zBarLibary
 
 //负一屏
 https://blog.csdn.net/dax120/article/details/79298197
+
+//音频开发
+http://blog.51cto.com/ticktick/1764778
+https://github.com/Jhuster/AudioDemo
