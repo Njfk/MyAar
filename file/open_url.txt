@@ -2,6 +2,8 @@
 //各种开源控件地址
 https://github.com/Trinea/android-open-project
 
+http://www.androidchina.net/1992.html
+
 // 二维码扫描
 https://github.com/bertsir/zBarLibary
 
@@ -11,3 +13,6 @@ https://blog.csdn.net/dax120/article/details/79298197
 //音频开发
 http://blog.51cto.com/ticktick/1764778
 https://github.com/Jhuster/AudioDemo
+
+
+
